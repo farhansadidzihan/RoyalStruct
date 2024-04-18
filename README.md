@@ -1,1 +1,1 @@
-# FSZ-Holdings-Limited
+# FSZ Capital Holdings
