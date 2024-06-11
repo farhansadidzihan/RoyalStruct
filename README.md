@@ -1,1 +1,1 @@
-# FSZ Capital Holdings
+# FSZ & Co
