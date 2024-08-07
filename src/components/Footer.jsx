@@ -7,7 +7,7 @@ const Footer = () => {
       <footer className="row row-cols-1 row-cols-sm-2 fon row-cols-md-5 mb- border-top">
         <div className="col mb-3">
           <img className="ml-20 mt-10 h-20 w-25" src={logo} alt="Logo" />
-          <p className="text-body-secondary text-xl"> <i className='font-signature font-bold'> Copyright © 2023 Royal Z Inc. </i> </p>
+          <p className="text-body-secondary text-xl"> <i className='font-signature font-bold'> Copyright © 2024 FSZ & Co Inc. </i> </p>
           <p className='text-body-secondary font-medium ml-12'> All rights reserved </p>
         </div>
 

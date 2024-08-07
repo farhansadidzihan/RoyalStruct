@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.e6a72352.css",
-    "main.js": "/static/js/main.dd2578f9.js",
+    "main.css": "/static/css/main.2e1abdcd.css",
+    "main.js": "/static/js/main.db9f9e5c.js",
     "static/media/img10.png": "/static/media/img10.fbcab7626cd4fc2232b9.png",
     "static/media/img9.png": "/static/media/img9.aa51e6a8ebf1c413c644.png",
     "static/media/img4.png": "/static/media/img4.fa17d3353d9fcd21d580.png",
@@ -14,13 +14,13 @@
     "static/media/img2.png": "/static/media/img2.5037e0da79a2a5992e6e.png",
     "static/media/img11.png": "/static/media/img11.2134fb118bdebcec4982.png",
     "static/media/img7.png": "/static/media/img7.3815c2af92e0e8c1e75b.png",
-    "static/media/logo-bg-rmvd.png": "/static/media/logo-bg-rmvd.bb183a99303e40ebf007.png",
+    "static/media/logo-bg-rmvd.png": "/static/media/logo-bg-rmvd.99b66cf64c93e9622f8f.png",
     "index.html": "/index.html",
-    "main.e6a72352.css.map": "/static/css/main.e6a72352.css.map",
-    "main.dd2578f9.js.map": "/static/js/main.dd2578f9.js.map"
+    "main.2e1abdcd.css.map": "/static/css/main.2e1abdcd.css.map",
+    "main.db9f9e5c.js.map": "/static/js/main.db9f9e5c.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6a72352.css",
-    "static/js/main.dd2578f9.js"
+    "static/css/main.2e1abdcd.css",
+    "static/js/main.db9f9e5c.js"
   ]
 }

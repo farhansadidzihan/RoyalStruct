@@ -42,8 +42,8 @@ const NavBar = () => {
   return (
     <div className="flex justify-between items-center w-full h-20 px-4 text-white bg-black fixed">
       <div className="flex items-center">
-        <img className="mr-2 mt-1 h-25 w-25" src={logo} alt="Logo" />
-        <h1 className="text-5xl font-signature cursor-pointer">Royal Z</h1>
+        <img className="mr-2 h-20 w-23" src={logo} alt="Logo" />
+        <h1 className="text-5xl font-signature cursor-pointer"> FSZ & Co </h1>
       </div>
 
       <ul className="hidden md:flex items-center">
