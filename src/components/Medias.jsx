@@ -1,7 +1,5 @@
 import React from "react";
-import { FaYoutube, FaTwitter, FaLinkedin, FaGithub, FaDiscord } from "react-icons/fa";
-// import { HiOutlineMail } from "react-icons/hi";
-// import { BsFillPersonLinesFill } from "react-icons/bs";
+import { FaYoutube, FaLinkedin, FaTwitter, FaInstagram, FaFacebook } from "react-icons/fa";
 
 const SocialLinks = () => {
   const links = [
@@ -12,7 +10,7 @@ const SocialLinks = () => {
             YouTube <FaYoutube size={30} />
         </>
         ),
-        href: "https://www.youtube.com/channel/UCebaUnHBZbNmfgZdW3hkZfw",
+        href: "https://www.youtube.com/@farhansadidzihan",
         style: "rounded-tr-md",
         download: false,
     },
@@ -20,64 +18,43 @@ const SocialLinks = () => {
       id: 2,
       child: (
         <>
-          Twitter <FaTwitter size={30} />
+          Instagram <FaInstagram size={30} />
         </>
       ),
-      href: "https://twitter.com/farhan_zihan",
+      href: "https://www.instagram.com/farhansadidzihan/",
     },
     {
       id: 3,
       child: (
         <>
-          LinkedIn <FaLinkedin size={30} />
+          Twitter <FaTwitter size={30} />
         </>
       ),
-      href: "https://www.linkedin.com/in/farhan-sadid-zihan-489b72259/",
+      href: "https://twitter.com/farhanszihan",
     },
     {
       id: 4,
       child: (
         <>
-          GitHub <FaGithub size={30} />
+          LinkedIn <FaLinkedin size={30} />
         </>
       ),
-      href: "https://github.com/FarhanZihan",
+      href: "https://www.linkedin.com/in/farhansadidzihan/",
     },
     {
       id: 5,
       child: (
         <>
-          Discord <FaDiscord size={30} />
+          Facebook <FaFacebook size={30} />
         </>
       ),
-      href: "https://discord.com/",
+      href: "https://facebook.com/farhanszihan",
       style: "rounded-br-md",
     },
-    // {
-    //   id: 6,
-    //   child: (
-    //     <>
-    //       Mail <HiOutlineMail size={30} />
-    //     </>
-    //   ),
-    //   href: "mailto:farhansadidzihan@gmail.com",
-    //   style: "rounded-br-md",
-    // },
-    // {
-    //   id: 7,
-    //   child: (
-    //     <>
-    //       Resume <BsFillPersonLinesFill size={30} />
-    //     </>
-    //   ),
-    //   href: "/resume.pdf",
-    //   style: "rounded-br-md",
-    //   download: true,
-    // }
   ];
 
   return (
-    <div className="hidden lg:flex flex-col top-[35%] left-0 fixed">
+    <div className="hidden lg:flex flex-col top-[32%] left-0 fixed">
       <ul>
         {links.map(({ id, child, href, style, download }) => (
           <li
