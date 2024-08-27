@@ -1,55 +1,97 @@
-import React from 'react'
-import logo from "../assets/logo-bg-rmvd.png";
+import React from 'react';
+import logo from "../assets/logo.png";
+import { FaYoutube, FaLinkedin, FaTwitter, FaInstagram, FaFacebook, FaGithub } from "react-icons/fa";
 
 const Footer = () => {
   return (
-    <div className="container mx-auto my-auto">
-      <footer className="row row-cols-1 row-cols-sm-2 fon row-cols-md-5 mb- border-top">
-        <div className="col mb-3">
-          <img className="ml-20 mt-10 h-20 w-25" src={logo} alt="Logo" />
-          <p className="text-body-secondary text-xl"> <i className='font-signature font-bold'> Copyright © 2024 FSZ & Co Inc. </i> </p>
-          <p className='text-body-secondary font-medium ml-12'> All rights reserved </p>
+    <div className="bg-black text-white py-8">
+      <div className="container mx-auto flex flex-wrap items-start justify-between gap-10">
+        {/* Logo */}
+        <div className="flex flex-col items-center md:items-start flex-shrink-0">
+          <img className="h-20 ml-10 w-20 mb-2" src={logo} alt="Logo" />
+          <p className="text-lg font-bold">
+            © 2024 FSZ & Co
+          </p>
         </div>
 
-        <div className="col mb-3 mt-3">
-
-        </div>
-
-        <div className="col mb-3 mt-3">
-          <h5 className='font-bold'> Products </h5>
-          <ul className="nav flex-column mt-2">
-            <li className="nav-item mb-2 fon"><a href="https://farhan-sadid-zihan.web.app/" className="nav-link p-0 text-body-secondary"> Industries </a></li>
-            <li className="nav-item mb-2 fon"><a href="https://farhan-sadid-zihan.web.app/" className="nav-link p-0 text-body-secondary"> Artificial Intelligence </a></li>
-            <li className="nav-item mb-2 fon"><a href="https://farhan-sadid-zihan.web.app/" className="nav-link p-0 text-body-secondary"> Blockchain </a></li>
-            <li className="nav-item mb-2 fon"><a href="https://farhan-sadid-zihan.web.app/" className="nav-link p-0 text-body-secondary"> Data & Analytics </a></li>
-            <li className="nav-item mb-2 fon"><a href="https://farhan-sadid-zihan.web.app/" className="nav-link p-0 text-body-secondary"> Cloud Computing </a></li>
+        {/* Our Companies */}
+        <div className="flex flex-col flex-grow ml-12">
+          <h5 className="font-bold text-xl mb-4">Our Companies</h5>
+          <ul className="space-y-2">
+            <li>
+              <a href="https://perplexity.ai" target="_blank" rel="noopener noreferrer" className="hover:text-gray-400">
+                Perplexity AI
+              </a>
+            </li>
+            <li>
+              <a href="httpss://notion.com" target="_blank" rel="noopener noreferrer" className="hover:text-gray-400">
+                Notion
+              </a>
+            </li>
+            <li>
+              <a href="https://replit.com" target="_blank" rel="noopener noreferrer" className="hover:text-gray-400">
+                Replit
+              </a>
+            </li>
           </ul>
         </div>
 
-        <div className="col mb-3 mt-3">
-          <h5 className='font-bold'> Solutions </h5>
-          <ul className="nav flex-column mt-2">
-            <li className="nav-item mb-2 fon"><a href="https://farhan-sadid-zihan.web.app/" className="nav-link p-0 text-body-secondary">IT Infrastructure</a></li>
-            <li className="nav-item mb-2 fon"><a href="https://farhan-sadid-zihan.web.app/" className="nav-link p-0 text-body-secondary"> Supply Chain </a></li>
-            <li className="nav-item mb-2 fon"><a href="https://farhan-sadid-zihan.web.app/" className="nav-link p-0 text-body-secondary"> Finance </a></li>
-            <li className="nav-item mb-2 fon"><a href="https://farhan-sadid-zihan.web.app/" className="nav-link p-0 text-body-secondary"> Hybrid Cloud</a></li>
-            <li className="nav-item mb-2 fon"><a href="https://farhan-sadid-zihan.web.app/" className="nav-link p-0 text-body-secondary"> Research </a></li>
+        {/* About */}
+        <div className="flex flex-col flex-grow">
+          <h5 className="font-bold text-xl mb-4">About</h5>
+          <ul className="space-y-2">
+            <li>
+              <a href="https://fszandco.com" target="_blank" rel="noopener noreferrer" className="hover:text-gray-400">
+                Company
+              </a>
+            </li>
+            <li>
+              <a href="https://annualreports.com" target="_blank" rel="noopener noreferrer" className="hover:text-gray-400">
+                Annual Report
+              </a>
+            </li>
           </ul>
         </div>
 
-        <div className="col mb-3 mt-3">
-          <h5 className='font-bold'> About Royal Z </h5>
-          <ul className="nav flex-column mt-2">
-            <li className="nav-item mb-2 fon"><a href="https://farhan-sadid-zihan.web.app/" className="nav-link p-0 text-body-secondary"> Annual Report </a></li>
-            <li className="nav-item mb-2 fon"><a href="https://farhan-sadid-zihan.web.app/" className="nav-link p-0 text-body-secondary"> Career Opportunities </a></li>
-            <li className="nav-item mb-2 fon"><a href="https://farhan-sadid-zihan.web.app/" className="nav-link p-0 text-body-secondary"> Investors </a></li>
-            <li className="nav-item mb-2 fon"><a href="https://farhan-sadid-zihan.web.app/" className="nav-link p-0 text-body-secondary"> Security, Privacy & Trust </a></li>
-            <li className="nav-item mb-2 fon"><a href="https://farhan-sadid-zihan.web.app/" className="nav-link p-0 text-body-secondary"> About Royal Z</a></li>
+        {/* Connect with Us */}
+        <div className="flex flex-col items-center md:items-start flex-shrink-0">
+          <h5 className="font-bold text-xl mb-4">Connect with Us</h5>
+          <ul className="flex space-x-4">
+            <li>
+              <a href="https://www.youtube.com" target="_blank" rel="noopener noreferrer" className="hover:text-gray-400">
+                <FaYoutube size={27} />
+              </a>
+            </li>
+            <li>
+              <a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer" className="hover:text-gray-400">
+                <FaInstagram size={27} />
+              </a>
+            </li>
+            <li>
+              <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="hover:text-gray-400">
+                <FaTwitter size={27} />
+              </a>
+            </li>
+            <li>
+              <a href="https://www.linkedin.com/company/fszandco" target="_blank" rel="noopener noreferrer" className="hover:text-gray-400">
+                <FaLinkedin size={27} />
+              </a>
+            </li>
+            <li>
+              <a href="https://www.facebook.com/profile.php?id=61564680801765" target="_blank" rel="noopener noreferrer" className="hover:text-gray-400">
+                <FaFacebook size={27} />
+              </a>
+            </li>
+            <li>
+              <a href="https://github.com/farhansadidzihan/fszandco" target="_blank" rel="noopener noreferrer" className="hover:text-gray-400">
+                <FaGithub size={27} />
+              </a>
+            </li>
           </ul>
         </div>
-      </footer>
+      </div>
     </div>
-  )
+  );
 }
 
-export default Footer
+export default Footer;
