@@ -1,6 +1,6 @@
 import React from 'react';
 import logo from "../assets/logo.png";
-import { FaYoutube, FaLinkedin, FaTwitter, FaInstagram, FaFacebook, FaGithub } from "react-icons/fa";
+import { FaYoutube, FaLinkedin, FaTwitter, FaInstagram, FaFacebook, FaPinterest, FaGithub } from "react-icons/fa";
 
 const Footer = () => {
   return (
@@ -80,6 +80,11 @@ const Footer = () => {
             <li>
               <a href="https://www.facebook.com/profile.php?id=61564680801765" target="_blank" rel="noopener noreferrer" className="hover:text-gray-400">
                 <FaFacebook size={27} />
+              </a>
+            </li>
+            <li>
+              <a href="https://pinterest.com" target="_blank" rel="noopener noreferrer" className="hover:text-gray-400">
+                <FaPinterest size={27} />
               </a>
             </li>
             <li>
