@@ -5,37 +5,27 @@ import logo from "../assets/logo.png";
 
 const NavBar = () => {
   const [nav, setNav] = useState(false);
-  const [showLoginModal, setShowLoginModal] = useState(false);
-  const [showSignupModal, setShowSignupModal] = useState(false);
 
   const links = [
     {
       id: 1,
-      link: "Products",
+      link: "Companies",
     },
     {
       id: 2,
-      link: "Solutions",
+      link: "Mission",
     },
     {
       id: 3,
-      link: "Developments",
+      link: "Resources",
     },
   ];
-
-  const handleLoginModal = () => {
-    setShowLoginModal(!showLoginModal);
-  };
-
-  const handleSignupModal = () => {
-    setShowSignupModal(!showSignupModal);
-  };
 
   return (
     <div className="flex justify-between items-center w-full h-20 px-4 text-white bg-black fixed">
       <div className="flex items-center">
         <img className="mr-3 mb-2 ml-8 h-20 w-20" src={logo} alt="Logo" />
-        <h1 className="text-6xl cursor-pointer"> FSZ & Co </h1>
+        <h1 className="text-5xl cursor-pointer"> FSZ & Co </h1>
       </div>
 
       <ul className="hidden md:flex items-center">

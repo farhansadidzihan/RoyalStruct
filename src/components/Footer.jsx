@@ -41,7 +41,7 @@ const Footer = () => {
           <h5 className="font-bold text-xl mb-4">About</h5>
           <ul className="space-y-2">
             <li>
-              <a href="https://fszandco.com" target="_blank" rel="noopener noreferrer" className="hover:text-gray-400">
+              <a href="https://crunchbase.com" target="_blank" rel="noopener noreferrer" className="hover:text-gray-400">
                 Company
               </a>
             </li>
