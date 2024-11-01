@@ -1,3 +1,5 @@
 ## Techs Used For FSZ & Co
 
-For Cyber Security: https://www.crowdstrike.com
+APIs: https://rapidapi.com/hub https://publicapis.dev/
+
+Cyber Security: https://www.crowdstrike.com
