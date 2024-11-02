@@ -1,4 +1,4 @@
-## Techs Used For FSZ & Co
+## Techs Using in FSZ & Co
 
 Remote Hiring: https://weworkremotely.com, https://remote.co/remote-jobs, https://flexjobs.com
 
