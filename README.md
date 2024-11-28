@@ -1,9 +1,10 @@
 # Product Technology R&D
 
-Domain: https://www.exonhost.com
+1. [Domain](https://www.exonhost.com)
 
-Hosting: https://console.firebase.google.com/u/0
+2. [Hosting](https://console.firebase.google.com/u/0)
+
+3. [Cyber Security](https://www.crowdstrike.com)
 
 APIs: https://rapidapi.com/hub, https://publicapis.dev/, https://serpapi.com/
 
-Cyber Security: https://www.crowdstrike.com 
