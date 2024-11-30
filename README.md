@@ -6,5 +6,5 @@
 
 3. [Cyber Security](https://www.crowdstrike.com)
 
-**APIs**: https://rapidapi.com/hub, https://publicapis.dev/, https://serpapi.com/
+**APIs:** https://rapidapi.com/hub, https://publicapis.dev/, https://serpapi.com/
 
