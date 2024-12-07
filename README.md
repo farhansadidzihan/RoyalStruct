@@ -8,3 +8,7 @@
 
 **APIs:** https://rapidapi.com/hub, https://publicapis.dev/, https://serpapi.com/, [Postman
 ](https://www.postman.com/)
+
+# All Paid Subscriptions
+
+1. LinkedIn 
