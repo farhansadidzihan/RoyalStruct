@@ -11,4 +11,5 @@
 
 # All Paid Subscriptions
 
-1. LinkedIn 
+1. LinkedIn
+2. Domain, Hosting, Server
