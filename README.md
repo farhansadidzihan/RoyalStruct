@@ -12,4 +12,5 @@
 # All Paid Subscriptions
 
 1. LinkedIn
+3. Notion, Slack
 2. Domain, Hosting, Server
