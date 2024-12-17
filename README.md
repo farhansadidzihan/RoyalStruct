@@ -6,7 +6,7 @@
 
 3. [Cyber Security](https://www.crowdstrike.com)
 
-**APIs:** https://rapidapi.com/hub, https://publicapis.dev/, https://serpapi.com/, [Postman
+**APIs:** [RapidAPI](https://rapidapi.com/hub), [Public API](https://publicapis.dev/), [SerpAPI](https://serpapi.com/), [Postman
 ](https://www.postman.com/)
 
 # All Paid Subscriptions
