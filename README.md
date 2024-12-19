@@ -13,5 +13,5 @@
 
 1. LinkedIn
 3. Notion, Slack
-4. Hubspot, Salesforce
+4. Team & Task Management
 2. Domain, Hosting, Server
