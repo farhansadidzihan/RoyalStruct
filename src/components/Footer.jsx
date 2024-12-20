@@ -1,6 +1,6 @@
 import React from 'react';
 import logo from "../assets/logo.png";
-import { FaYoutube, FaLinkedin, FaTwitter, FaInstagram, FaFacebook, FaPinterest, FaGithub } from "react-icons/fa";
+import {FaLinkedin, FaTwitter, FaInstagram, FaFacebook, FaPinterest, FaGithub } from "react-icons/fa";
 
 const Footer = () => {
   return (
@@ -58,8 +58,13 @@ const Footer = () => {
           <h5 className="font-bold text-xl mb-4">Connect with Us</h5>
           <ul className="flex space-x-4">
             <li>
-              <a href="https://www.youtube.com" target="_blank" rel="noopener noreferrer" className="hover:text-gray-400">
-                <FaYoutube size={27} />
+              <a href="https://www.linkedin.com/company/fszandco" target="_blank" rel="noopener noreferrer" className="hover:text-gray-400">
+                <FaLinkedin size={27} />
+              </a>
+            </li>
+            <li>
+              <a href="https://www.facebook.com/profile.php?id=61564680801765" target="_blank" rel="noopener noreferrer" className="hover:text-gray-400">
+                <FaFacebook size={27} />
               </a>
             </li>
             <li>
@@ -70,16 +75,6 @@ const Footer = () => {
             <li>
               <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="hover:text-gray-400">
                 <FaTwitter size={27} />
-              </a>
-            </li>
-            <li>
-              <a href="https://www.linkedin.com/company/fszandco" target="_blank" rel="noopener noreferrer" className="hover:text-gray-400">
-                <FaLinkedin size={27} />
-              </a>
-            </li>
-            <li>
-              <a href="https://www.facebook.com/profile.php?id=61564680801765" target="_blank" rel="noopener noreferrer" className="hover:text-gray-400">
-                <FaFacebook size={27} />
               </a>
             </li>
             <li>
