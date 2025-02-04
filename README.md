@@ -21,8 +21,6 @@
 6. **Intelligent Investor**
 7. **Tax-Free Wealth**
 
-### | [Science](https://online.udvash-unmesh.com/Routine/PastClasses) | [Courses](https://www.coursera.org/my-learning) | [Code](https://replit.com/repls) | [Job Experiences](https://www.theforage.com/achievements) |
-
 # Management - CEO
 
 ### All Paid Subscriptions
