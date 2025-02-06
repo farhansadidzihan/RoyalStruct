@@ -23,6 +23,8 @@
 
 # Management - CEO
 
+### [Learn](https://www.coursera.org/my-learning?myLearningTab=IN_PROGRESS)
+
 ### All Paid Subscriptions
 
 1. LinkedIn
