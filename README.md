@@ -23,7 +23,7 @@
 
 # Management - CEO
 
-### [Learn](https://www.coursera.org/my-learning?myLearningTab=IN_PROGRESS)
+### [Learn](https://www.coursera.org/my-learning?myLearningTab=IN_PROGRESS) | [Notion](https://www.notion.so) | [Account](https://myaccount.google.com)
 
 ### All Paid Subscriptions
 
