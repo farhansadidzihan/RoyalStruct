@@ -2,7 +2,6 @@
 - **My Notes of Business**
 1. **Ikigai**
 2. **Atomic Habits**  
-3. **Tools of Titans**  
 4. **Defining Decade**
 5. **Rework**
 6. **E Myth**  
