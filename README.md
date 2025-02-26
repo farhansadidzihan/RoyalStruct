@@ -20,7 +20,7 @@
 6. **Intelligent Investor**
 7. **Tax-Free Wealth**
 
-# Management - CEO
+# Management
 
 ### All Paid Subscriptions
 
@@ -31,10 +31,10 @@
 
 - **Board Members, HR & Culture, Legal**
 
-# [Finance](https://www.msn.com/en-xl/money) - CFO
+# [Finance](https://www.msn.com/en-xl/money)
 
 ### [Financial Report](https://www.annualreports.com/) | [Invest](https://venture.angellist.com/) | [Acquire](https://flippa.com) | [Traxn](https://tracxn.com) | [CrunchBase](https://www.crunchbase.com)
 
-# Brand - CMO
+# Brand
 
 ### [Marketing](https://www.semrush.com/projects) | [Sales](https://www.engagebay.com/) | [CRM](https://www.nextiva.com)
