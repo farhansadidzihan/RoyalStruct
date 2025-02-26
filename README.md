@@ -1,9 +1,6 @@
 # Business Books
 - **My Notes of Business**
-1. **Ikigai**
-2. **Atomic Habits**  
 4. **Defining Decade**
-5. **Rework**
 6. **E Myth**  
 7. **Visual MBA**  
 8. **Zero To One** 
@@ -13,11 +10,7 @@
 12. **Almanack of Naval Ravikant**  
 13. **Hard Thing About Hard Things** 
 1. **Principles**  
-2. **Rich Dad Poor Dad**   
-3. **Think and Grow Rich**  
-4. **Psychology of Money**
-5. **Millionaire Fastlane**  
-6. **Intelligent Investor**
+5. **Millionaire Fastlane** 
 7. **Tax-Free Wealth**
 
 # Management
