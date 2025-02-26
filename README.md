@@ -22,8 +22,6 @@
 
 # Management - CEO
 
-### [Learn](https://www.coursera.org/my-learning?myLearningTab=IN_PROGRESS) | [Notion](https://www.notion.so) | [Account](https://myaccount.google.com)
-
 ### All Paid Subscriptions
 
 1. LinkedIn
@@ -35,7 +33,7 @@
 
 # [Finance](https://www.msn.com/en-xl/money) - CFO
 
-### [Financial Report](https://www.annualreports.com/) | [Invest](https://venture.angellist.com/) & [Acquire](https://flippa.com) | [Traxn](https://tracxn.com) | [CrunchBase](https://www.crunchbase.com)
+### [Financial Report](https://www.annualreports.com/) | [Invest](https://venture.angellist.com/) | [Acquire](https://flippa.com) | [Traxn](https://tracxn.com) | [CrunchBase](https://www.crunchbase.com)
 
 # Brand - CMO
 
