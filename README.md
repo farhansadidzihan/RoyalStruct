@@ -1,6 +1,5 @@
 # Business Books
-- **My Notes of Business**
-4. **Defining Decade**
+1. **Defining Decade**
 6. **E Myth**  
 7. **Visual MBA**  
 8. **Zero To One** 
