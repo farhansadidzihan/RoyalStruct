@@ -2,11 +2,9 @@
 1. **Defining Decade**
 6. **E Myth**  
 7. **Visual MBA**  
-8. **Zero To One** 
 9. **Personal MBA**
 10. **Lean Startup**  
-11. **Dotcom Secrets**
-12. **Almanack of Naval Ravikant**  
+11. **Dotcom Secrets** 
 13. **Hard Thing About Hard Things** 
 1. **Principles**  
 5. **Millionaire Fastlane** 
