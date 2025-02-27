@@ -14,8 +14,6 @@
 
 # Management
 
-### All Paid Subscriptions
-
 - **Board Members, HR & Culture, Legal**
 
 # Finance
