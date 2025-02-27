@@ -1,3 +1,1 @@
-## Management & Finance
-
-## Brand
+## Management & Finance - Brand
