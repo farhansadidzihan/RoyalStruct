@@ -1,1 +1,1 @@
-### [Domain](https://www.exonhost.com) | [Hosting](https://console.firebase.google.com/u/0)
+### [Startups](https://tracxn.com) | [SaaS](https://flippa.com) | [Finance](https://www.msn.com/en-xl/money)
