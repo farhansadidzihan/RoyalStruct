@@ -1,4 +1,5 @@
-# Royalstruct
-Structural Engineering Solutions
+# list of all Startup Accelarator Programs to Apply For
 
-[ArXiv](https://arxiv.org/) | [IELTS](https://ielts.idp.com/bangladesh) | [SAT](https://www.collegeboard.org/) 
+1. Y Combinator
+3. TechStarts
+4. Entrepreneurs First
